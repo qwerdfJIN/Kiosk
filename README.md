@@ -32,9 +32,11 @@ Lv7: 미완료
 
 Lv6 과제가 version 1, 2로 나뉘어져 있습니다
 
-version 1은 클래스를 비효율적으로 나눠 작성한 코드이고
+version 1은 클래스를 비효율적으로 나눠 작성한 코드이고﻿
 
-version 2는 version1을 리펙토링하여 클래스를 재구성한 코드입니다
+version 2는 설계를 새롭게 작성한 코드입니다
+
+(version 1 관련 내용: https://qwerdfjin.tistory.com/17)
 
 <br>
 
