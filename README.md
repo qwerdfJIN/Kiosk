@@ -4,13 +4,13 @@
 
 ***레벨별 과제내용**
 
-Lv1. 기본적인 키오스크 기능 구현
+Lv1. 기본적인 키오스크 기능 구현 (Class: Main)
 
-Lv2. 객체 지향 설계를 적용해 햄버거 메뉴를 클래스로 관리 (MenuItem 클래스 추가)
+Lv2. 객체 지향 설계를 적용해 햄버거 메뉴를 클래스로 관리 (Class : Main, MenuItem)
 
-Lv3. 객체 지향 설계를 적용해 순서 제어를 클래스로 관리 (Kisok 클래스 추가)
+Lv3. 객체 지향 설계를 적용해 순서 제어를 클래스로 관리 (Class: Main, MenuItem, Kiosk)
 
-Lv4. 객체 지향 설계를 적용해 음식 메뉴와 주문 내역을 클래스 기반으로 관리 (Menu 클래스 추가)
+Lv4. 객체 지향 설계를 적용해 음식 메뉴와 주문 내역을 클래스 기반으로 관리 (Class: Main, MenuItem, Kiosk, Menu)
 
 Lv5. 캡슐화 적용 (Kiosk, Menu, MenuItem 필드)
 
