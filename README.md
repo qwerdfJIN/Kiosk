@@ -31,8 +31,8 @@ Lv3: 완료
 Lv4: 완료
 
 Lv5: 완료
- ㄴ version1: 클래스 비효율적으로 설계
- ㄴ version2: 클래스 재설계하여 작성
+<br> ㄴ version1: 클래스 비효율적으로 설계
+<br> ㄴ version2: 클래스 재설계하여 작성
 
 Lv6: 완료
 
